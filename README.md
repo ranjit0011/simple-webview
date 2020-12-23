@@ -1,2 +1,3 @@
 # simple-webview
-![alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
+![alt text](https://github.com/iamRanjitgoud/simple-webview/blob/main/screenshots/IMG_20201223_223105.jpg)
+![alt text](https://github.com/iamRanjitgoud/simple-webview/blob/main/screenshots/IMG_20201223_223123.jpg)
