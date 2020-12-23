@@ -1,3 +1,4 @@
 # simple-webview
-![alt text](https://github.com/iamRanjitgoud/simple-webview/blob/main/screenshots/IMG_20201223_223105.jpg)
-![alt text](https://github.com/iamRanjitgoud/simple-webview/blob/main/screenshots/IMG_20201223_223123.jpg)
+# How does WebView work in Android?
+WebView is a view that display web pages inside your application. You can also specify HTML string and can show it inside your application using WebView. WebView makes turns your application to a web application.
+![alt text](https://github.com/iamRanjitgoud/simple-webview/blob/main/screen.gif)
