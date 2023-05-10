@@ -191,7 +191,7 @@ public class MainActivity extends AppCompatActivity {
         public void onBackPressed ()
             Called when the activity has detected the user's press of the back key. The default
             implementation simply finishes the current activity, but you can override this to
-            do whatever you want [web].
+            do whatever you want.
     */
 
 
