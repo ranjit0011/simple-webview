@@ -39,7 +39,7 @@ public class PageofflineActivity extends AppCompatActivity {
         }
     }
     public void onBackPressed() {
-        //  super.onBackPressed();
+    
         moveTaskToBack(true);
 
     }
