@@ -20,7 +20,7 @@ public class SplashActivity extends AppCompatActivity {
             new Handler().postDelayed(new Runnable() {
         @Override public void run() {
             Intent i = new Intent(SplashActivity.this, MainActivity.class); startActivity(i);
-            finish(); } }, 4000);
+            finish(); } }, 2000);
             //ProgressBar
         ProgressBar progressBar = (ProgressBar)findViewById(R.id.spin_kit);
         Sprite doubleBounce = new DoubleBounce();
