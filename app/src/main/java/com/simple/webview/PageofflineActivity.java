@@ -40,7 +40,7 @@ public class PageofflineActivity extends AppCompatActivity {
     }
     public void onBackPressed() {
     
-        moveTaskToBack(true);
+        //moveTaskToBack(true);
 
     }
 }
