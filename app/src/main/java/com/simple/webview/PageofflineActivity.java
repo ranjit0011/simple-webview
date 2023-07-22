@@ -31,11 +31,11 @@ public class PageofflineActivity extends AppCompatActivity {
             }
         });
 
-        if (ConnectionManager.checkconnection(getBaseContext())){
-            layout.setVisibility(View.INVISIBLE);
-        }
+        // if (ConnectionManager.checkconnection(getBaseContext())){
+        //     layout.setVisibility(View.INVISIBLE);
+        // }
         else {
-            //layout.setVisibility(View.VISIBLE);
+            layout.setVisibility(View.VISIBLE);
         }
     }
     public void onBackPressed() {
