@@ -19,7 +19,7 @@ public class PageofflineActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pageoffline);
 
-        layout=findViewById(R.id.layout);
+        //layout=findViewById(R.id.layout);
         btnretry=findViewById(R.id.btnretry);
 
         btnretry.setOnClickListener(new View.OnClickListener() {
