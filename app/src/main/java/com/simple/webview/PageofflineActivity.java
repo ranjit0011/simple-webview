@@ -36,7 +36,7 @@ public class PageofflineActivity extends AppCompatActivity {
         }
         else {
             layout.setVisibility(View.VISIBLE);
-        //}
+        }
     }
     public void onBackPressed() {
     
