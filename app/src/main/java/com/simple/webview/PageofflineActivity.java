@@ -22,7 +22,7 @@ public class PageofflineActivity extends AppCompatActivity {
         layout=findViewById(R.id.layout);
         btnretry=findViewById(R.id.btnretry);
 
-       // btnretry.setOnClickListener(new View.OnClickListener() {
+        btnretry.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(PageofflineActivity.this, MainActivity.class);
