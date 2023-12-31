@@ -16,8 +16,8 @@ public class PageofflineActivity extends AppCompatActivity {
     RelativeLayout layout;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-       // setContentView(R.layout.activity_pageoffline);
+       // super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_pageoffline);
 
         layout=findViewById(R.id.layout);
         btnretry=findViewById(R.id.btnretry);
